@@ -1,0 +1,21 @@
+body {
+       background-color:lightblue;
+}
+h1, h3 {
+         font-size:25px;
+         color:red;
+         background-color:black;
+}
+h6, p {
+        font-size:20px;
+}
+img {
+      border-radius:8px
+}
+table, th {
+        border: 1px solid;
+        background-color:pink;
+}
+ul {
+      list-type-style: circle;
+}
